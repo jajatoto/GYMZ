@@ -28,7 +28,7 @@
 
         <meta-data
             android:name="com.kakao.sdk.AppKey"
-            android:value="7fada0b3d011b30df6e5aefb9203d38c" />
+            android:value="-blind-" />
 
         <uses-library
             android:name="org.apache.http.legacy"
